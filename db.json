@@ -1,0 +1,22 @@
+{
+  "expenses": [
+    {
+      "amount": "379.99",
+      "name": "Dinner with client.",
+      "date": "2020-12-24",
+      "recipient": "Francesco",
+      "currency": "CHF",
+      "type": "Food",
+      "id": 1
+    },
+    {
+      "amount": "28.50",
+      "name": "New keyboard.",
+      "date": "2020-12-30",
+      "recipient": "Francesco",
+      "currency": "EUR",
+      "type": "Other",
+      "id": 2
+    }
+  ]
+}
