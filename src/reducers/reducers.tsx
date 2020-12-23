@@ -24,7 +24,8 @@ export default function rootReducer(state = defaultState, action: actionTypes) {
         case DELETE_EXPENSE_TYPE:
             return {
                 ...state,
-                loading: true
+                loading: true,
+                error: null
             };
         case FETCH_EXPENSES_SUCCESS_TYPE:
             return {

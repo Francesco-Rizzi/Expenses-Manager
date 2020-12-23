@@ -6,8 +6,8 @@ import {
 } from '../actions/actions';
 import {
     AddExpenseAction,
-    ADD_EXPENSE_TYPE,
     DeleteExpenseAction,
+    ADD_EXPENSE_TYPE,
     DELETE_EXPENSE_TYPE,
     FETCH_EXPENSES_TYPE
 } from '../actions/types';
